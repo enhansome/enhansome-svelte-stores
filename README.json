@@ -121,7 +121,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T13:08:44Z",
+            "last_commit": "2026-08-14T19:42:16Z",
             "owner": "arlac77",
             "repo": "svelte-websocket-store",
             "stars": 292
@@ -514,7 +514,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T18:27:35.094Z",
+    "last_updated": "2026-08-15T17:49:47.254Z",
     "original_repository": "samuba/awesome-svelte-stores",
     "original_repository_sha": "e11e4bfd3fc77994940e53b882de518711877bcf",
     "enhanced_repository": "enhansome/enhansome-svelte-stores",
