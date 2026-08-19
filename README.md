@@ -84,7 +84,7 @@ Just reading through the list might also give you some inspiration for solving y
 
 ## State Machine
 
-* [svelte-fsm](https://github.com/kenkunz/svelte-fsm) ⭐ 297 | 🐛 3 | 🌐 JavaScript | 📅 2023-02-21
+* [svelte-fsm](https://github.com/kenkunz/svelte-fsm) ⭐ 296 | 🐛 3 | 🌐 JavaScript | 📅 2023-02-21
   * Only 1kb, very simple, typescript support
   * [9min video introduction](https://www.youtube.com/watch?v=3_D-3HPUdEI)
 * [svate](https://github.com/AlexxNB/svate) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2021-09-29
