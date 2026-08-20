@@ -11,7 +11,7 @@ Just reading through the list might also give you some inspiration for solving y
   * Supports different/custom storage providers
 * [persistent-svelte-store](https://github.com/omer-g/persistent-svelte-store) ⭐ 86 | 🐛 0 | 🌐 TypeScript | 📅 2022-04-09
   * Built from scratch in TypeScript. Is reactive across tabs or windows using the Broadcast Channel API.
-* [babichjacob/svelte-localstorage](https://github.com/babichjacob/svelte-localstorage) ⭐ 47 | 🐛 5 | 🌐 JavaScript | 📅 2026-06-15
+* [babichjacob/svelte-localstorage](https://github.com/babichjacob/svelte-localstorage) ⭐ 48 | 🐛 5 | 🌐 JavaScript | 📅 2026-06-15
   * SSR support
 * [@furudean/svelte-persistent-store](https://github.com/furudean/svelte-persistent-store) ⭐ 37 | 🐛 6 | 🌐 JavaScript | 📅 2024-04-01
   * Saves and loads data from `Window.localStorage` or `Window.sessionStorage`.
@@ -151,4 +151,4 @@ Just reading through the list might also give you some inspiration for solving y
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
