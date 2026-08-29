@@ -16,7 +16,8 @@
             "owner": "MacFJA",
             "repo": "svelte-persistent-store",
             "stars": 253
-          }
+          },
+          "first_seen": "2026-08-29T01:07:41.215Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "omer-g",
             "repo": "persistent-svelte-store",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-29T01:07:41.215Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "babichjacob",
             "repo": "svelte-localstorage",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-29T01:07:41.215Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "furudean",
             "repo": "svelte-persistent-store",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-29T01:07:41.215Z"
         }
       ],
       "title": "Browser Storage"
@@ -82,7 +86,8 @@
             "owner": "zyxd",
             "repo": "svelte-store-router",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-29T01:07:41.215Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "buhrmi",
             "repo": "query-store",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-29T01:07:41.215Z"
         }
       ],
       "title": "Browser Navigation"
@@ -118,7 +124,8 @@
             "owner": "SvelteStack",
             "repo": "svelte-query",
             "stars": 833
-          }
+          },
+          "first_seen": "2026-08-29T01:07:41.215Z"
         },
         {
           "node_type": "item",
@@ -129,11 +136,12 @@
             "archived": false,
             "id": 224747813,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T15:13:49Z",
+            "last_commit": "2026-08-28T18:16:13Z",
             "owner": "arlac77",
             "repo": "svelte-websocket-store",
             "stars": 292
-          }
+          },
+          "first_seen": "2026-08-29T01:07:41.215Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "sveltetools",
             "repo": "svelte-asyncable",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-29T01:07:41.215Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "MacFJA",
             "repo": "svelte-invalidable",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T01:07:41.215Z"
         }
       ],
       "title": "Fetching Data"
@@ -184,7 +194,8 @@
             "owner": "bryanmylee",
             "repo": "svelte-previous",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-29T01:07:41.215Z"
         },
         {
           "node_type": "item",
@@ -199,7 +210,8 @@
             "owner": "MacFJA",
             "repo": "svelte-undoable",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-29T01:07:41.215Z"
         },
         {
           "node_type": "item",
@@ -214,7 +226,8 @@
             "owner": "plrenaudin",
             "repo": "svelte-storez",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-29T01:07:41.215Z"
         }
       ],
       "title": "Undo"
@@ -235,7 +248,8 @@
             "owner": "aredridel",
             "repo": "svelte-damped-store",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T01:07:41.215Z"
         },
         {
           "node_type": "item",
@@ -250,7 +264,8 @@
             "owner": "MacFJA",
             "repo": "svelte-expirable",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T01:07:41.215Z"
         }
       ],
       "title": "Time"
@@ -271,7 +286,8 @@
             "owner": "vkurko",
             "repo": "svelte-store2",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T01:07:41.215Z"
         },
         {
           "node_type": "item",
@@ -286,7 +302,8 @@
             "owner": "gitbreaker222",
             "repo": "SvelteStore",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T01:07:41.215Z"
         }
       ],
       "title": "Upgraded Stores"
@@ -307,7 +324,8 @@
             "owner": "PixievoltNo1",
             "repo": "svelte-writable-derived",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-29T01:07:41.215Z"
         },
         {
           "node_type": "item",
@@ -322,7 +340,8 @@
             "owner": "bryanmylee",
             "repo": "svelte-keyed",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-29T01:07:41.215Z"
         },
         {
           "node_type": "item",
@@ -337,7 +356,8 @@
             "owner": "lacikawiz",
             "repo": "svelte-nStore",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T01:07:41.215Z"
         }
       ],
       "title": "Stores affecting each other"
@@ -358,7 +378,8 @@
             "owner": "kenkunz",
             "repo": "svelte-fsm",
             "stars": 296
-          }
+          },
+          "first_seen": "2026-08-29T01:07:41.215Z"
         },
         {
           "node_type": "item",
@@ -373,7 +394,8 @@
             "owner": "AlexxNB",
             "repo": "svate",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T01:07:41.215Z"
         }
       ],
       "title": "State Machine"
@@ -394,7 +416,8 @@
             "owner": "endenwer",
             "repo": "svelte-restate",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-29T01:07:41.215Z"
         },
         {
           "node_type": "item",
@@ -409,7 +432,8 @@
             "owner": "Crisfole",
             "repo": "svelte-readonly",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T01:07:41.215Z"
         }
       ],
       "title": "(Im)mutability"
@@ -430,7 +454,8 @@
             "owner": "joshnuss",
             "repo": "svelte-animation-store",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-29T01:07:41.215Z"
         },
         {
           "node_type": "item",
@@ -445,7 +470,8 @@
             "owner": "swyxio",
             "repo": "everything-store",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T01:07:41.215Z"
         }
       ],
       "title": "CSS"
@@ -466,7 +492,8 @@
             "owner": "PixievoltNo1",
             "repo": "svelte-webext-storage-adapter",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-29T01:07:41.215Z"
         },
         {
           "node_type": "item",
@@ -481,7 +508,8 @@
             "owner": "shaun-wild",
             "repo": "svelte-chrome-storage",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T01:07:41.215Z"
         }
       ],
       "title": "Browser Extensions"
@@ -502,7 +530,8 @@
             "owner": "tony-sull",
             "repo": "svelte-entity-store",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-29T01:07:41.215Z"
         },
         {
           "node_type": "item",
@@ -517,7 +546,8 @@
             "owner": "aredridel",
             "repo": "svelte-lens-store",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T01:07:41.215Z"
         },
         {
           "node_type": "item",
@@ -532,14 +562,15 @@
             "owner": "wobsoriano",
             "repo": "svelte-xactor",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T01:07:41.215Z"
         }
       ],
       "title": "Others"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:37:13.151Z",
+    "last_updated": "2026-08-29T01:07:41.215Z",
     "original_repository_info": {
       "archived": false,
       "id": 505520666,
