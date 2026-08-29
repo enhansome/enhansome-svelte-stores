@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Svelte store that keep its value through pages and reloads",
+            "homepage": null,
             "id": 342928069,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-06-29T20:09:07Z",
+            "open_issues": 15,
             "owner": "MacFJA",
             "repo": "svelte-persistent-store",
-            "stars": 253
+            "stars": 253,
+            "topics": [
+              "cookie",
+              "indexeddb",
+              "localstorage",
+              "sessionstorage",
+              "storages",
+              "store",
+              "svelte",
+              "sveltejs"
+            ]
           },
           "first_seen": "2026-08-29T01:07:41.215Z"
         },
@@ -26,12 +40,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A generic persistent store according to the Svelte store contract",
+            "homepage": null,
             "id": 463645215,
             "language": "TypeScript",
+            "license": "Unlicense",
             "last_commit": "2022-04-09T19:11:18Z",
+            "open_issues": 0,
             "owner": "omer-g",
             "repo": "persistent-svelte-store",
-            "stars": 86
+            "stars": 86,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:41.215Z"
         },
@@ -42,12 +61,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Svelte writable stores that automatically synchronize with localStorage",
+            "homepage": null,
             "id": 363765834,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-15T22:13:55Z",
+            "open_issues": 5,
             "owner": "babichjacob",
             "repo": "svelte-localstorage",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "localstorage",
+              "svelte"
+            ]
           },
           "first_seen": "2026-08-29T01:07:41.215Z"
         },
@@ -58,12 +85,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Svelte store that saves and loads data from localStorage or sessionStorage",
+            "homepage": null,
             "id": 494653688,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-04-01T18:46:31Z",
+            "open_issues": 6,
             "owner": "furudean",
             "repo": "svelte-persistent-store",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "localstorage",
+              "sessionstorage",
+              "store",
+              "svelte",
+              "svelte-kit"
+            ]
           },
           "first_seen": "2026-08-29T01:07:41.215Z"
         }
@@ -80,12 +118,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Store-based router for Svelte",
+            "homepage": "https://svelte-store-router-demo.vercel.app",
             "id": 306996164,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-12-13T15:10:46Z",
+            "open_issues": 2,
             "owner": "zyxd",
             "repo": "svelte-store-router",
-            "stars": 92
+            "stars": 92,
+            "topics": [
+              "browser",
+              "frontend",
+              "javascript",
+              "node",
+              "router",
+              "ssr",
+              "state",
+              "store",
+              "svelte",
+              "svelte-pathfinder"
+            ]
           },
           "first_seen": "2026-08-29T01:07:41.215Z"
         },
@@ -96,12 +150,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Keeps the browser's querystring in sync with a Svelte store",
+            "homepage": null,
             "id": 251191191,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-06-18T02:55:15Z",
+            "open_issues": 1,
             "owner": "buhrmi",
             "repo": "query-store",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:41.215Z"
         }
@@ -118,12 +177,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Performant and powerful remote data synchronization for Svelte",
+            "homepage": "https://sveltequery.vercel.app",
             "id": 302123385,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-08-25T11:38:56Z",
+            "open_issues": 36,
             "owner": "SvelteStack",
             "repo": "svelte-query",
-            "stars": 833
+            "stars": 833,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:41.215Z"
         },
@@ -134,12 +198,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "svelte store with a websocket backend",
+            "homepage": null,
             "id": 224747813,
             "language": "JavaScript",
+            "license": "0BSD",
             "last_commit": "2026-08-28T18:16:13Z",
+            "open_issues": 12,
             "owner": "arlac77",
             "repo": "svelte-websocket-store",
-            "stars": 292
+            "stars": 292,
+            "topics": [
+              "store",
+              "svelte-v3",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-29T01:07:41.215Z"
         },
@@ -150,12 +223,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Asyncable store for Svelte 3 which is store a value as promise.",
+            "homepage": null,
             "id": 219864610,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-01-22T00:15:15Z",
+            "open_issues": 8,
             "owner": "sveltetools",
             "repo": "svelte-asyncable",
-            "stars": 170
+            "stars": 170,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:41.215Z"
         },
@@ -166,12 +244,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Svelte that can be requested to update itself",
+            "homepage": null,
             "id": 341692614,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-09-25T17:53:01Z",
+            "open_issues": 0,
             "owner": "MacFJA",
             "repo": "svelte-invalidable",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "store",
+              "svelte",
+              "sveltejs"
+            ]
           },
           "first_seen": "2026-08-29T01:07:41.215Z"
         }
@@ -188,12 +275,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Svelte store that remembers previous values",
+            "homepage": null,
             "id": 323051429,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-10-17T11:17:33Z",
+            "open_issues": 3,
             "owner": "bryanmylee",
             "repo": "svelte-previous",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "history",
+              "previous",
+              "svelte",
+              "svelte-stores"
+            ]
           },
           "first_seen": "2026-08-29T01:07:41.215Z"
         },
@@ -204,12 +301,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Memento design pattern in Svelte",
+            "homepage": null,
             "id": 294919704,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-02-20T18:48:01Z",
+            "open_issues": 0,
             "owner": "MacFJA",
             "repo": "svelte-undoable",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "memento",
+              "stores",
+              "svelte",
+              "svelte-component",
+              "sveltejs"
+            ]
           },
           "first_seen": "2026-08-29T01:07:41.215Z"
         },
@@ -220,12 +328,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Svelte writable store with some extras",
+            "homepage": "https://codesandbox.io/s/storez-demo-c11v9",
             "id": 242417081,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-08-30T17:41:10Z",
+            "open_issues": 4,
             "owner": "plrenaudin",
             "repo": "svelte-storez",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "history",
+              "localstorage",
+              "store",
+              "svelte",
+              "sveltejs"
+            ]
           },
           "first_seen": "2026-08-29T01:07:41.215Z"
         }
@@ -242,12 +361,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A derived writable store that can suspend updates",
+            "homepage": null,
             "id": 492582483,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-06-02T16:27:19Z",
+            "open_issues": 0,
             "owner": "aredridel",
             "repo": "svelte-damped-store",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:41.215Z"
         },
@@ -258,12 +382,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Svelte store with items that expire",
+            "homepage": null,
             "id": 434383494,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-12-03T20:12:10Z",
+            "open_issues": 0,
             "owner": "MacFJA",
             "repo": "svelte-expirable",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:41.215Z"
         }
@@ -280,12 +409,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 351020947,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-16T10:38:17Z",
+            "open_issues": 0,
             "owner": "vkurko",
             "repo": "svelte-store2",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:41.215Z"
         },
@@ -296,12 +430,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Template for client side svelte store",
+            "homepage": "https://svelte.dev/repl/a76e9e11af784185a39020fec02b7733?version=3.31.2",
             "id": 242596279,
             "language": "JavaScript",
+            "license": "CC0-1.0",
             "last_commit": "2023-10-17T03:37:15Z",
+            "open_issues": 2,
             "owner": "gitbreaker222",
             "repo": "SvelteStore",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "state-management",
+              "storage",
+              "svelte"
+            ]
           },
           "first_seen": "2026-08-29T01:07:41.215Z"
         }
@@ -318,12 +461,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Two-way data-transforming stores for Svelte",
+            "homepage": null,
             "id": 187775026,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-11-15T10:47:24Z",
+            "open_issues": 1,
             "owner": "PixievoltNo1",
             "repo": "svelte-writable-derived",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "svelte",
+              "svelte3"
+            ]
           },
           "first_seen": "2026-08-29T01:07:41.215Z"
         },
@@ -334,12 +485,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A writable derived store for objects and arrays",
+            "homepage": null,
             "id": 436715374,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-04-03T17:13:26Z",
+            "open_issues": 2,
             "owner": "bryanmylee",
             "repo": "svelte-keyed",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "derived",
+              "rxjs",
+              "stores",
+              "sveltejs",
+              "writable"
+            ]
           },
           "first_seen": "2026-08-29T01:07:41.215Z"
         },
@@ -350,12 +512,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Svelte Store replacement with easy computed values",
+            "homepage": null,
             "id": 309873092,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2020-12-04T02:32:51Z",
+            "open_issues": 0,
             "owner": "lacikawiz",
             "repo": "svelte-nStore",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:41.215Z"
         }
@@ -372,12 +539,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tiny, expressive finite state machines for svelte",
+            "homepage": null,
             "id": 367462164,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-02-21T04:42:49Z",
+            "open_issues": 3,
             "owner": "kenkunz",
             "repo": "svelte-fsm",
-            "stars": 296
+            "stars": 296,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:41.215Z"
         },
@@ -388,12 +560,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Set of simple state machines for Svelte applications",
+            "homepage": null,
             "id": 349330520,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-09-29T04:48:30Z",
+            "open_issues": 0,
             "owner": "AlexxNB",
             "repo": "svate",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:41.215Z"
         }
@@ -410,12 +587,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Immutable store for Svelte with full Typescript support and Redux Devtools integration.",
+            "homepage": "https://endenwer.github.io/svelte-restate/",
             "id": 353333229,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-02-15T16:35:02Z",
+            "open_issues": 1,
             "owner": "endenwer",
             "repo": "svelte-restate",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "redux-devtools",
+              "state-management",
+              "store",
+              "svelte"
+            ]
           },
           "first_seen": "2026-08-29T01:07:41.215Z"
         },
@@ -426,12 +613,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 328043762,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-01-09T00:44:25Z",
+            "open_issues": 1,
             "owner": "Crisfole",
             "repo": "svelte-readonly",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:41.215Z"
         }
@@ -448,12 +640,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 363809556,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-05-03T05:58:57Z",
+            "open_issues": 0,
             "owner": "joshnuss",
             "repo": "svelte-animation-store",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "animation",
+              "svelte"
+            ]
           },
           "first_seen": "2026-08-29T01:07:41.215Z"
         },
@@ -464,12 +664,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 452089187,
             "language": "Svelte",
+            "license": null,
             "last_commit": "2022-06-19T01:27:58Z",
+            "open_issues": 5,
             "owner": "swyxio",
             "repo": "everything-store",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:41.215Z"
         }
@@ -486,12 +691,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Svelte stores, backed up by chrome.storage",
+            "homepage": null,
             "id": 187775534,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-08-30T17:34:21Z",
+            "open_issues": 4,
             "owner": "PixievoltNo1",
             "repo": "svelte-webext-storage-adapter",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "chrome-extension",
+              "firefox-extension",
+              "svelte",
+              "svelte3",
+              "webextension"
+            ]
           },
           "first_seen": "2026-08-29T01:07:41.215Z"
         },
@@ -502,12 +718,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight abstraction between Svelte stores and Chrome extension storage.",
+            "homepage": null,
             "id": 514744989,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-07-17T07:47:48Z",
+            "open_issues": 1,
             "owner": "shaun-wild",
             "repo": "svelte-chrome-storage",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:41.215Z"
         }
@@ -524,12 +745,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Normalized entity store for Svelte projects",
+            "homepage": null,
             "id": 363121931,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-05-23T17:27:48Z",
+            "open_issues": 4,
             "owner": "tony-sull",
             "repo": "svelte-entity-store",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:41.215Z"
         },
@@ -540,12 +766,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Functional lenses over svelte stores",
+            "homepage": "https://gitlab.com/dinhe/svelte-lens-store",
             "id": 492609374,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-05-15T21:35:34Z",
+            "open_issues": 0,
             "owner": "aredridel",
             "repo": "svelte-lens-store",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:41.215Z"
         },
@@ -556,12 +787,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert xactor machines into global svelte stores",
+            "homepage": null,
             "id": 407637338,
             "language": "Svelte",
+            "license": "MIT",
             "last_commit": "2021-09-17T18:29:03Z",
+            "open_issues": 0,
             "owner": "wobsoriano",
             "repo": "svelte-xactor",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "svelte",
+              "xactor"
+            ]
           },
           "first_seen": "2026-08-29T01:07:41.215Z"
         }
@@ -570,15 +809,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:07:41.215Z",
+    "last_updated": "2026-08-29T05:00:15.113Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of awesome Svelte stores",
+      "homepage": null,
       "id": 505520666,
       "language": null,
+      "license": null,
       "last_commit": "2022-09-21T08:32:46Z",
+      "open_issues": 2,
       "owner": "samuba",
       "repo": "awesome-svelte-stores",
-      "stars": 77
+      "stars": 77,
+      "topics": [
+        "awesome-list",
+        "svelte",
+        "svelte-js",
+        "sveltejs"
+      ]
     },
     "original_repository_sha": "e11e4bfd3fc77994940e53b882de518711877bcf",
     "enhanced_repository": "enhansome/enhansome-svelte-stores",
