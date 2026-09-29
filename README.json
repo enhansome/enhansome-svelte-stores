@@ -66,8 +66,8 @@
             "id": 363765834,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-06-15T22:13:55Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-29T21:07:09Z",
+            "open_issues": 3,
             "owner": "babichjacob",
             "repo": "svelte-localstorage",
             "stars": 48,
@@ -203,8 +203,8 @@
             "id": 224747813,
             "language": "JavaScript",
             "license": "0BSD",
-            "last_commit": "2026-09-28T22:26:28Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-29T18:58:27Z",
+            "open_issues": 13,
             "owner": "arlac77",
             "repo": "svelte-websocket-store",
             "stars": 292,
@@ -809,7 +809,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T22:37:39.457Z",
+    "last_updated": "2026-09-29T21:31:08.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Svelte stores",
