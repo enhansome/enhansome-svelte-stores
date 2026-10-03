@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "@macfja/svelte-persistent-store",
-          "description": null,
+          "description": "MacFJA/svelte-persistent-store",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -36,7 +36,7 @@
         {
           "node_type": "item",
           "title": "persistent-svelte-store",
-          "description": null,
+          "description": "omer-g/persistent-svelte-store",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -57,7 +57,7 @@
         {
           "node_type": "item",
           "title": "babichjacob/svelte-localstorage",
-          "description": null,
+          "description": "babichjacob/svelte-localstorage",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -81,7 +81,7 @@
         {
           "node_type": "item",
           "title": "@furudean/svelte-persistent-store",
-          "description": null,
+          "description": "furudean/svelte-persistent-store",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -114,7 +114,7 @@
         {
           "node_type": "item",
           "title": "svelte-store-router",
-          "description": null,
+          "description": "zyxd/svelte-store-router",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -146,7 +146,7 @@
         {
           "node_type": "item",
           "title": "query-store",
-          "description": null,
+          "description": "buhrmi/query-store",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -173,7 +173,7 @@
         {
           "node_type": "item",
           "title": "svelte-query",
-          "description": null,
+          "description": "SvelteStack/svelte-query",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -194,7 +194,7 @@
         {
           "node_type": "item",
           "title": "svelte-websocket-store",
-          "description": null,
+          "description": "arlac77/svelte-websocket-store",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -219,7 +219,7 @@
         {
           "node_type": "item",
           "title": "svelte-asyncable",
-          "description": null,
+          "description": "sveltetools/svelte-asyncable",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -240,7 +240,7 @@
         {
           "node_type": "item",
           "title": "@macfja/svelte-invalidable",
-          "description": null,
+          "description": "MacFJA/svelte-invalidable",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -271,7 +271,7 @@
         {
           "node_type": "item",
           "title": "svelte-previous",
-          "description": null,
+          "description": "bryanmylee/svelte-previous",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -297,7 +297,7 @@
         {
           "node_type": "item",
           "title": "@macfja/svelte-undoable",
-          "description": null,
+          "description": "MacFJA/svelte-undoable",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -324,7 +324,7 @@
         {
           "node_type": "item",
           "title": "storez",
-          "description": null,
+          "description": "plrenaudin/svelte-storez",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -357,7 +357,7 @@
         {
           "node_type": "item",
           "title": "svelte-damped-store",
-          "description": null,
+          "description": "aredridel/svelte-damped-store",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -378,7 +378,7 @@
         {
           "node_type": "item",
           "title": "@macfja/svelte-expirable",
-          "description": null,
+          "description": "MacFJA/svelte-expirable",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -405,7 +405,7 @@
         {
           "node_type": "item",
           "title": "svelte-store2",
-          "description": null,
+          "description": "vkurko/svelte-store2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -426,7 +426,7 @@
         {
           "node_type": "item",
           "title": "SvelteStore",
-          "description": null,
+          "description": "gitbreaker222/SvelteStore",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -457,7 +457,7 @@
         {
           "node_type": "item",
           "title": "svelte-writable-derived",
-          "description": null,
+          "description": "PixievoltNo1/svelte-writable-derived",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -481,7 +481,7 @@
         {
           "node_type": "item",
           "title": "svelte-keyed",
-          "description": null,
+          "description": "bryanmylee/svelte-keyed",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -508,7 +508,7 @@
         {
           "node_type": "item",
           "title": "Svelte-nStore",
-          "description": null,
+          "description": "lacikawiz/svelte-nStore",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -535,7 +535,7 @@
         {
           "node_type": "item",
           "title": "svelte-fsm",
-          "description": null,
+          "description": "kenkunz/svelte-fsm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -556,7 +556,7 @@
         {
           "node_type": "item",
           "title": "svate",
-          "description": null,
+          "description": "AlexxNB/svate",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -583,7 +583,7 @@
         {
           "node_type": "item",
           "title": "svelte-restate",
-          "description": null,
+          "description": "endenwer/svelte-restate",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -609,7 +609,7 @@
         {
           "node_type": "item",
           "title": "svelte-readonly",
-          "description": null,
+          "description": "Crisfole/svelte-readonly",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -636,7 +636,7 @@
         {
           "node_type": "item",
           "title": "svelte-animation-store",
-          "description": null,
+          "description": "joshnuss/svelte-animation-store",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -660,7 +660,7 @@
         {
           "node_type": "item",
           "title": "sw-yx/everything-store",
-          "description": null,
+          "description": "swyxio/everything-store",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -687,7 +687,7 @@
         {
           "node_type": "item",
           "title": "svelte-webext-storage-adapter",
-          "description": null,
+          "description": "PixievoltNo1/svelte-webext-storage-adapter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -714,7 +714,7 @@
         {
           "node_type": "item",
           "title": "svelte-chrome-storage",
-          "description": null,
+          "description": "shaun-wild/svelte-chrome-storage",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -741,7 +741,7 @@
         {
           "node_type": "item",
           "title": "svelte-entity-store",
-          "description": null,
+          "description": "tony-sull/svelte-entity-store",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -762,7 +762,7 @@
         {
           "node_type": "item",
           "title": "svelte-lens-store",
-          "description": null,
+          "description": "aredridel/svelte-lens-store",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -783,7 +783,7 @@
         {
           "node_type": "item",
           "title": "svelte-xactor",
-          "description": null,
+          "description": "wobsoriano/svelte-xactor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -809,7 +809,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:25:41.498Z",
+    "last_updated": "2026-10-03T05:08:49.067Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Svelte stores",
