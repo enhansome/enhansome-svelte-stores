@@ -29,7 +29,7 @@ Just reading through the list might also give you some inspiration for solving y
 
 * [svelte-query](https://github.com/SvelteStack/svelte-query) ⭐ 831 | 🐛 36 | 🌐 TypeScript | 📅 2023-08-25
   * Advanced asynchronous state management including caching, auto-refetching etc. TanStack/query fork?
-* [svelte-websocket-store](https://github.com/arlac77/svelte-websocket-store) ⭐ 292 | 🐛 12 | 🌐 JavaScript | 📅 2026-10-12
+* [svelte-websocket-store](https://github.com/arlac77/svelte-websocket-store) ⭐ 292 | 🐛 16 | 🌐 JavaScript | 📅 2026-10-13
   * Send/receive data from a websocket
 * [svelte-asyncable](https://github.com/PaulMaly/svelte-asyncable) ⭐ 170 | 🐛 8 | 🌐 JavaScript | 📅 2026-01-22
   * Tiny, declarative, optimistic, async store
@@ -59,7 +59,7 @@ Just reading through the list might also give you some inspiration for solving y
 
 ## Upgraded Stores
 
-* [svelte-store2](https://github.com/vkurko/svelte-store2) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2023-01-16
+* [svelte-store2](https://github.com/vkurko/svelte-store2) ⚠️ Archived
   * Adds a `get()` function to writable, derived and readable that returns the actual value without subscribing/ubsubscribing in the background like svelte's normal \[get()]
     (<https://svelte.dev/docs#run-time-svelte-store-get>) function.
 * [SvelteStore](https://github.com/gitbreaker222/SvelteStore) ⭐ 2 | 🐛 2 | 🌐 JavaScript | 📅 2023-10-17
@@ -151,4 +151,4 @@ Just reading through the list might also give you some inspiration for solving y
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
