@@ -50,7 +50,7 @@ Just reading through the list might also give you some inspiration for solving y
 
 ## Time
 
-* [svelte-damped-store](https://github.com/aredridel/svelte-damped-store) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-09
+* [svelte-damped-store](https://github.com/aredridel/svelte-damped-store) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-14
   * derived writable store that can suspend updates while user is still interacting
 * [@macfja/svelte-expirable](https://github.com/MacFJA/svelte-expirable) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2021-12-03
   * A store with items that expire
@@ -107,7 +107,7 @@ Just reading through the list might also give you some inspiration for solving y
 ## Inspired State Management
 
 * [stores-x](https://github.com/Anyass3/stores-x) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2022-05-21
-  * State management heaviliy inspired by [VueX](https://github.com/vuejs/vuex) ⭐ 28,298 | 🐛 144 | 🌐 JavaScript | 📅 2024-09-25
+  * State management heaviliy inspired by [VueX](https://github.com/vuejs/vuex) ⭐ 28,297 | 🐛 144 | 🌐 JavaScript | 📅 2024-09-25
 * [MiniRx](https://spierala.github.io/mini-rx-store/)
   * RxJS Redux Store that works with TypeScript
 
@@ -151,4 +151,4 @@ Just reading through the list might also give you some inspiration for solving y
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
