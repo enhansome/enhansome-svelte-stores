@@ -50,7 +50,7 @@ Just reading through the list might also give you some inspiration for solving y
 
 ## Time
 
-* [svelte-damped-store](https://github.com/aredridel/svelte-damped-store) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-14
+* [svelte-damped-store](https://github.com/aredridel/svelte-damped-store) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-21
   * derived writable store that can suspend updates while user is still interacting
 * [@macfja/svelte-expirable](https://github.com/MacFJA/svelte-expirable) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2021-12-03
   * A store with items that expire
@@ -151,4 +151,4 @@ Just reading through the list might also give you some inspiration for solving y
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
