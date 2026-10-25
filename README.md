@@ -29,7 +29,7 @@ Just reading through the list might also give you some inspiration for solving y
 
 * [svelte-query](https://github.com/SvelteStack/svelte-query) ⭐ 830 | 🐛 36 | 🌐 TypeScript | 📅 2023-08-25
   * Advanced asynchronous state management including caching, auto-refetching etc. TanStack/query fork?
-* [svelte-websocket-store](https://github.com/arlac77/svelte-websocket-store) ⭐ 292 | 🐛 13 | 🌐 JavaScript | 📅 2026-10-24
+* [svelte-websocket-store](https://github.com/arlac77/svelte-websocket-store) ⭐ 292 | 🐛 12 | 🌐 JavaScript | 📅 2026-10-25
   * Send/receive data from a websocket
 * [svelte-asyncable](https://github.com/PaulMaly/svelte-asyncable) ⭐ 170 | 🐛 8 | 🌐 JavaScript | 📅 2026-01-22
   * Tiny, declarative, optimistic, async store
@@ -84,7 +84,7 @@ Just reading through the list might also give you some inspiration for solving y
 
 ## State Machine
 
-* [svelte-fsm](https://github.com/kenkunz/svelte-fsm) ⭐ 296 | 🐛 3 | 🌐 JavaScript | 📅 2023-02-21
+* [svelte-fsm](https://github.com/kenkunz/svelte-fsm) ⭐ 297 | 🐛 3 | 🌐 JavaScript | 📅 2023-02-21
   * Only 1kb, very simple, typescript support
   * [9min video introduction](https://www.youtube.com/watch?v=3_D-3HPUdEI)
 * [svate](https://github.com/AlexxNB/svate) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2021-09-29
@@ -151,4 +151,4 @@ Just reading through the list might also give you some inspiration for solving y
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
