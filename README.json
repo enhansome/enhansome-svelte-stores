@@ -186,7 +186,7 @@
             "open_issues": 36,
             "owner": "SvelteStack",
             "repo": "svelte-query",
-            "stars": 830,
+            "stars": 829,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:41.215Z"
@@ -203,7 +203,7 @@
             "id": 224747813,
             "language": "JavaScript",
             "license": "0BSD",
-            "last_commit": "2026-11-10T18:27:39Z",
+            "last_commit": "2026-11-11T11:33:32Z",
             "open_issues": 12,
             "owner": "arlac77",
             "repo": "svelte-websocket-store",
@@ -809,7 +809,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T22:29:53.290Z",
+    "last_updated": "2026-11-11T23:38:58.628Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Svelte stores",
