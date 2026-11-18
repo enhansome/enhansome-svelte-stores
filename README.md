@@ -27,7 +27,7 @@ Just reading through the list might also give you some inspiration for solving y
 
 ## Fetching Data
 
-* [svelte-query](https://github.com/SvelteStack/svelte-query) ⭐ 830 | 🐛 36 | 🌐 TypeScript | 📅 2023-08-25
+* [svelte-query](https://github.com/SvelteStack/svelte-query) ⭐ 831 | 🐛 36 | 🌐 TypeScript | 📅 2023-08-25
   * Advanced asynchronous state management including caching, auto-refetching etc. TanStack/query fork?
 * [svelte-websocket-store](https://github.com/arlac77/svelte-websocket-store) ⭐ 292 | 🐛 12 | 🌐 JavaScript | 📅 2026-11-17
   * Send/receive data from a websocket
@@ -107,7 +107,7 @@ Just reading through the list might also give you some inspiration for solving y
 ## Inspired State Management
 
 * [stores-x](https://github.com/Anyass3/stores-x) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2022-05-21
-  * State management heaviliy inspired by [VueX](https://github.com/vuejs/vuex) ⭐ 28,283 | 🐛 144 | 🌐 JavaScript | 📅 2024-09-25
+  * State management heaviliy inspired by [VueX](https://github.com/vuejs/vuex) ⭐ 28,282 | 🐛 144 | 🌐 JavaScript | 📅 2024-09-25
 * [MiniRx](https://spierala.github.io/mini-rx-store/)
   * RxJS Redux Store that works with TypeScript
 
@@ -151,4 +151,4 @@ Just reading through the list might also give you some inspiration for solving y
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._

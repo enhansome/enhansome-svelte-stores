@@ -186,7 +186,7 @@
             "open_issues": 36,
             "owner": "SvelteStack",
             "repo": "svelte-query",
-            "stars": 830,
+            "stars": 831,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:41.215Z"
@@ -809,7 +809,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T23:55:45.799Z",
+    "last_updated": "2026-11-18T23:30:52.395Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Svelte stores",
