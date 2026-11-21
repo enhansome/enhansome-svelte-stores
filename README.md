@@ -9,7 +9,7 @@ Just reading through the list might also give you some inspiration for solving y
 
 * [@macfja/svelte-persistent-store](https://github.com/MacFJA/svelte-persistent-store) ⭐ 253 | 🐛 15 | 🌐 TypeScript | 📅 2025-06-29
   * Supports different/custom storage providers
-* [persistent-svelte-store](https://github.com/omer-g/persistent-svelte-store) ⭐ 85 | 🐛 0 | 🌐 TypeScript | 📅 2022-04-09
+* [persistent-svelte-store](https://github.com/omer-g/persistent-svelte-store) ⭐ 84 | 🐛 0 | 🌐 TypeScript | 📅 2022-04-09
   * Built from scratch in TypeScript. Is reactive across tabs or windows using the Broadcast Channel API.
 * [babichjacob/svelte-localstorage](https://github.com/babichjacob/svelte-localstorage) ⭐ 48 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-29
   * SSR support
@@ -29,7 +29,7 @@ Just reading through the list might also give you some inspiration for solving y
 
 * [svelte-query](https://github.com/SvelteStack/svelte-query) ⭐ 831 | 🐛 36 | 🌐 TypeScript | 📅 2023-08-25
   * Advanced asynchronous state management including caching, auto-refetching etc. TanStack/query fork?
-* [svelte-websocket-store](https://github.com/arlac77/svelte-websocket-store) ⭐ 292 | 🐛 14 | 🌐 JavaScript | 📅 2026-11-20
+* [svelte-websocket-store](https://github.com/arlac77/svelte-websocket-store) ⭐ 292 | 🐛 14 | 🌐 JavaScript | 📅 2026-11-21
   * Send/receive data from a websocket
 * [svelte-asyncable](https://github.com/PaulMaly/svelte-asyncable) ⭐ 170 | 🐛 8 | 🌐 JavaScript | 📅 2026-01-22
   * Tiny, declarative, optimistic, async store
@@ -151,4 +151,4 @@ Just reading through the list might also give you some inspiration for solving y
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
