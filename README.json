@@ -203,8 +203,8 @@
             "id": 224747813,
             "language": "JavaScript",
             "license": "0BSD",
-            "last_commit": "2026-11-25T14:33:01Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-26T20:28:46Z",
+            "open_issues": 12,
             "owner": "arlac77",
             "repo": "svelte-websocket-store",
             "stars": 292,
@@ -809,7 +809,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T01:06:47.039Z",
+    "last_updated": "2026-11-27T01:07:41.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Svelte stores",
